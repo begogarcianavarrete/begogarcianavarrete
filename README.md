@@ -1,4 +1,6 @@
-## Hi there 👋
+# Perfil de Begoña García, dev full stack.
+
+Hola esto es un ejemplo de fichero readme para personalizar mi perfil de GITHUB
 
 <!--
 **begogarcianavarrete/begogarcianavarrete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
