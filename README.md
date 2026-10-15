@@ -5,6 +5,8 @@
 ### 🐍 Aprendiendo desarrollo de software con Python
 
 **Explorando el mundo de la programación, una línea de código a la vez.**
+![Texto animado](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Creando+soluciones+digitales;Aprendiendo+algo+nuevo+cada+dia;De+la+idea+al+codigo;Crear.+Desarrollar.+Evolucionar.)
+
 
 <br>
 
