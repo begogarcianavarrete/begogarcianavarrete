@@ -1,133 +1,164 @@
-
 <div align="center">
 
-# 👋 ¡Hola, mundo! Soy Begoña.
+# 👋 ¡Hola! Soy Begoña
 
-### 💻 Desarrollador web Full Stack
+### 🐍 Aprendiendo desarrollo de software con Python
 
-**Transformando ideas en soluciones digitales.**
+**Explorando el mundo de la programación, una línea de código a la vez.**
 
-![Texto animado](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Creando+soluciones+digitales;Aprendiendo+algo+nuevo+cada+dia;De+la+idea+al+codigo;Crear.+Desarrollar.+Evolucionar.)
+<br>
 
-🌐 [Mi portfolio](https://example.com) |
-💼 [LinkedIn](https://linkedin.com/in/tu-usuario) |
-📩 [Contacto](mailto:correo@ejemplo.com)
+![Python](https://img.shields.io/badge/Python-En%20aprendizaje-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![GitHub](https://img.shields.io/badge/Mi%20aventura%20como%20dev-Acaba%20de%20empezar-181717?style=flat-square&logo=github)
 
 </div>
 
 ---
 
-## 🧠 Un poco sobre mí
+## 🧑‍💻 Sobre mí
 
-Soy [TU NOMBRE], apasionado por la tecnología,
-el desarrollo de software y la innovación.
+¡Bienvenido a mi pequeño rincón de GitHub!
 
-Me gusta transformar ideas en proyectos reales,
-resolver problemas y mejorar constantemente
-mis habilidades.
+Estoy dando mis primeros pasos en el desarrollo de software.
 
-- 🚀 Actualmente desarrollando: [PROYECTO]
-- 📚 Aprendiendo: [TECNOLOGÍA]
-- 💡 Me interesa: [ESPECIALIDAD]
-- 🤝 Busco colaborar en: [TIPO DE PROYECTOS]
-- 🎯 Mi objetivo: Crear tecnología que aporte valor.
+Actualmente estoy cursando un máster de programación,
+en el que sigo adquiriendo nuevos conocimientos y
+descubriendo todo lo que puedo llegar a crear con código.
 
----
+Mi punto de partida ha sido **Python**, un lenguaje con
+el que estoy aprendiendo los fundamentos de la programación.
 
-## ⚡ Mis tecnologías
+Me considero una persona curiosa, con ganas de aprender,
+experimentar y superar nuevos retos.
 
-### 🎨 Desarrollo Frontend
+Este perfil será mi espacio para compartir lo que voy
+aprendiendo, mis prácticas y los proyectos que vaya
+desarrollando a lo largo del camino.
 
-`HTML` `CSS` `JavaScript` `React`
-
-### ⚙️ Desarrollo Backend
-
-`Node.js` `Python` `Express`
-
-### 🗄️ Bases de datos
-
-`PostgreSQL` `MongoDB`
-
-### 🛠️ Herramientas
-
-`Git` `GitHub` `Docker` `VS Code`
+**Mi objetivo no es demostrar que lo sé todo, sino
+mostrar cómo sigo aprendiendo.**
 
 ---
 
-## 🚀 Proyectos destacados
+## 🛠️ Mi caja de herramientas
 
-### 🥇 Proyecto 01 — [NOMBRE]
+Estas son las tecnologías y herramientas con las que
+he comenzado a trabajar:
 
-**[Breve descripción del proyecto]**
+<div align="center">
 
-Tecnologías: [STACK UTILIZADO]
+<img src="https://skillicons.dev/icons?i=python,vscode,git,github&theme=dark" />
 
-🔗 [Ver proyecto](https://example.com)
+</div>
 
-💻 [Explorar código](https://github.com/TU-USUARIO/TU-REPOSITORIO)
+<br>
 
----
-
-### 🥈 Proyecto 02 — [NOMBRE]
-
-**[Breve descripción del proyecto]**
-
-Tecnologías: [STACK UTILIZADO]
-
-🔗 [Ver proyecto](https://example.com)
-
-💻 [Explorar código](https://github.com/TU-USUARIO/TU-REPOSITORIO)
+| Tecnología | Mi experiencia actual |
+|:---|:---|
+| 🐍 Python | Aprendiendo y practicando |
+| 💻 Visual Studio Code | Mi entorno de desarrollo |
+| 🌿 Git | Aprendiendo control de versiones |
+| 🐙 GitHub | Compartiendo y organizando mi código |
 
 ---
 
-## 🧪 Mi laboratorio de desarrollo
+## 🚀 Mi camino como desarrollador
+
+Cada gran proyecto comienza con una primera línea de código.
+
+### 📍 Mi punto de partida
+
+- ✅ Dar el primer paso en el mundo de la programación.
+- ✅ Comenzar a trabajar con Python.
+- ✅ Conocer herramientas como VS Code, Git y GitHub.
+- 🔄 Continuar avanzando en mi máster de programación.
+- 🎯 Seguir desarrollando mis habilidades mediante la práctica.
+- 🎯 Crear proyectos propios que me permitan aplicar lo aprendido.
+
+---
+
+## 🧪 Mi laboratorio de código
+
+Este es mi espacio de experimentación.
+
+Aquí iré compartiendo:
+
+- 🐍 Ejercicios y prácticas.
+- 💡 Pequeños proyectos personales.
+- 🧩 Retos de programación.
+- 🛠️ Experimentos con nuevas herramientas.
+- 📚 Recursos y aprendizajes interesantes.
+
+> 💡 Cada proyecto será una oportunidad para aprender
+> algo nuevo y mejorar mi forma de programar.
+
+---
+
+## 📂 Mis proyectos
+
+🚧 **Sección en construcción**
+
+Estoy dando forma a mis primeros proyectos.
+
+Poco a poco iré incorporando repositorios con ejercicios,
+soluciones y aplicaciones desarrolladas durante mi formación.
+
+**Lo importante no es empezar con grandes proyectos,
+sino comenzar a construir.**
+
+---
+
+## 🧭 Mi filosofía de aprendizaje
 
 ```text
-🚀 Desarrollando → [PROYECTO ACTUAL]
-
-📚 Aprendiendo   → [TECNOLOGÍA]
-
-💡 Investigando  → [ÁREA DE INTERÉS]
-
-🎯 Próximo reto  → [OBJETIVO]
+┌───────────────────────────────────────┐
+│                                       │
+│      MI MODO DESARROLLADOR            │
+│                                       │
+│  01. Aprender los fundamentos         │
+│  02. Practicar lo aprendido           │
+│  03. Equivocarme y entender por qué   │
+│  04. Encontrar soluciones             │
+│  05. Mejorar y volver a intentarlo    │
+│                                       │
+│      ESTADO: EN CONSTANTE             │
+│              APRENDIZAJE 🟢           │
+│                                       │
+└───────────────────────────────────────┘
 ```
 
 ---
 
-## 📊 Mi actividad en GitHub
+## 🎯 Mi próximo objetivo
 
-![Mis estadísticas](https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=transparent)
+Seguir consolidando mis conocimientos de programación
+y comenzar a desarrollar proyectos cada vez más completos.
+
+Quiero que este perfil sea un reflejo real de mi evolución,
+desde mis primeros ejercicios hasta los proyectos que
+sea capaz de desarrollar en el futuro.
 
 ---
 
-## 🤝 ¿Creamos algo juntos?
+## 🤝 Conectemos
 
-Me encanta conocer personas con ideas,
-compartir conocimientos y colaborar
-en proyectos interesantes.
+Creo que una de las mejores formas de aprender
+es compartir conocimientos con otras personas.
 
-**¿Tienes una idea? Hablemos y hagámosla realidad.**
+Me interesa descubrir proyectos, intercambiar ideas
+y aprender de la comunidad de desarrolladores.
+
+**¡Toda gran trayectoria comienza con un primer paso!**
 
 ---
 
 <div align="center">
 
-### ⚡ CREAR · DESARROLLAR · EVOLUCIONAR
+### 💻 APRENDER · PRACTICAR · CONSTRUIR
 
-**La mejor manera de aprender es construir.**
+**Hoy aprendiendo. Mañana construyendo cosas que todavía no imagino.**
+
+🚀
 
 </div>
-<!--
-**begogarcianavarrete/begogarcianavarrete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
